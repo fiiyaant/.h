@@ -15,8 +15,22 @@
 - [Lisensi](#lisensi)
 
 ---
+<details>
+  <summary>### **1.2 Penjelasan Singkat Tentang Rencana dalam Mengatasi Pernyataan Masalah**</summary>
+
+Untuk menjawab permasalahan, kami menggunakan dataset yang berisi **32,833 lagu** dengan **23 fitur utama** seperti popularitas, genre, danceability, tempo, energi, valence, durasi, dan tahun rilis. Data ini mencakup informasi terperinci yang relevan untuk menganalisis tren musik, memahami karakteristik yang memengaruhi popularitas lagu, dan memberikan insight kepada artis serta produser musik.  
+
+Pendekatan kami terdiri dari:
+1. **Analisis Tren Musik**: Mengidentifikasi faktor-faktor yang memengaruhi popularitas lagu dan potensinya untuk menjadi viral berdasarkan genre dan fitur musik.
+2. **Karakteristik Lagu untuk Aktivitas Tertentu**: Mengelompokkan lagu berdasarkan fitur seperti energi, tempo, dan valence untuk berbagai aktivitas seperti workout, relaksasi, atau bekerja.
+3. **Tren Berdasarkan Waktu**: Menelusuri evolusi fitur musik seperti durasi, danceability, dan valence untuk menemukan perubahan pola preferensi audiens.
+4. **Memberikan Insight Strategis**: Menyediakan panduan bagi artis dan industri musik untuk menciptakan karya yang relevan dengan audiens modern.
+
+</details>
 
 ## About
+
+
 ### 1.1 Musik: Lebih dari Sekadar Hiburan
 Musik lebih dari sekadar hiburan; ia memiliki dampak besar pada **suasana hati**, **produktivitas**, dan bahkan **membentuk tren sosial** yang memengaruhi kehidupan sehari-hari. 
 
