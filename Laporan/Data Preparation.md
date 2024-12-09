@@ -33,5 +33,4 @@ df = pd.read_csv("spotify_dataset.csv")
 # Menampilkan beberapa baris awal
 df.head()
 
-#### **Langkah 2: Pemeriksaan Nilai Hilang**
 
