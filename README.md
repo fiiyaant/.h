@@ -13,7 +13,6 @@
 - [Summary](#Summary)
 - [Hasil](#hasil)
 - [Anggota Kelompok](#anggota-kelompok)
-- [Lisensi](#lisensi)
 
 ---
 
@@ -372,7 +371,4 @@ Melalui analisis ini, kami menyediakan wawasan berbasis data untuk membantu semu
 - [Nur Fitri Yanti](https://github.com/fiiyaant) - 202110370311088
 - [Indri Reghina Putri](https://github.com/nanajem1) - 202110370311096
 
----
-
-## Lisensi
 ---
