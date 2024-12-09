@@ -266,6 +266,7 @@ setelah itu jalan kan Jupyter Notebook yang kamu gunakan dan pilih file yang ing
 
 ## Hasil
 Berdasarkan analisis yang telah dilakukan pada data Spotify memperoleh hasil sebagai berikut:
+
 **1. Popularitas Berdasarkan Genre**
 Genre Pop dan Hip-hop lebih populer dibandingkan genre lain pada platform Spotify. Lagu-lagu dalam genre ini cenderung memiliki skor popularitas yang lebih tinggi, menunjukkan bahwa pendengar lebih sering memilih lagu-lagu dari genre tersebut. Selain itu, tren genre musik berubah seiring waktu, dengan beberapa genre menjadi lebih dominan.
 
