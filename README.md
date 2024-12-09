@@ -100,6 +100,10 @@ Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tuj
 ---
 
 ## Anggota Kelompok
+
+- [Nur Fitri Yanti](https://github.com/fiiyaant) - 202110370311088
+- [Indri Reghina Putri](https://github.com/nanajem1) - 202110370311096
+
 ---
 
 ## Lisensi
