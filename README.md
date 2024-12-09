@@ -311,6 +311,8 @@ Dataset yang digunakan mencakup **32,833 lagu** dengan **23 fitur utama**, seper
 4. **Tren Danceability dan Valence:**
    - Danceability meningkat secara konsisten sejak 1980-an, sedangkan valence (keceriaan lagu) menurun sejak 1990-an, menunjukkan pergeseran menuju musik yang lebih emosional.
 
+</details>
+
 ---
 
 ## Hasil
@@ -361,7 +363,7 @@ Informasi yang dihasilkan setelah melakukan analisa terhadap dataset memperoleh 
 **Kesimpulan**
 Melalui analisis ini, kami menyediakan wawasan berbasis data untuk membantu semua pihak di industri musik—dari artis, produser, hingga label—memahami dan menciptakan musik yang relevan dengan audiens modern. Dengan fokus pada fitur musikal, tren waktu, dan preferensi audiens, wawasan ini mendukung inovasi dan kesuksesan dalam pasar musik global yang terus berubah.
 
-</details>
+
 ---
 
 ## Anggota Kelompok
