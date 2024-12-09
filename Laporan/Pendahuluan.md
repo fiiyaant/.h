@@ -1,6 +1,6 @@
 # Define the text content
 
-# 1.1 Musik: Lebih dari Sekadar Hiburan
+## 1.1 Musik: Lebih dari Sekadar Hiburan
 Musik lebih dari sekadar hiburan; ia memiliki dampak besar pada **suasana hati**, **produktivitas**, dan bahkan **membentuk tren sosial** yang memengaruhi kehidupan sehari-hari. 
 
 Di tengah persaingan ketat di industri musik, **memahami apa yang membuat sebuah lagu bisa viral atau populer** adalah kunci sukses. Dengan perkembangan teknologi, terutama lewat platform seperti **Spotify**, tren musik bergerak sangat cepat, dan preferensi audiens pun berubah seiring waktu.
@@ -13,7 +13,7 @@ Oleh karena itu, penting untuk menganalisis:
 Pemahaman ini bisa membantu **artis**, **produser**, dan **label musik** menciptakan karya yang lebih relevan, menarik, dan berpotensi sukses. 
 Mari bersama-sama mengeksplorasi apa yang sebenarnya membuat musik bisa menghubungkan banyak orang!
 
-# **1.2 Penjelasan Singkat Tentang Rencana dalam Mengatasi Pernyataan Masalah**
+## **1.2 Penjelasan Singkat Tentang Rencana dalam Mengatasi Pernyataan Masalah**
 
 kami menggunakan dataset yang berisi **32,833 lagu** dengan **23 fitur utama** seperti popularitas, genre, danceability, tempo, energi, valence, durasi, dan tahun rilis. Data ini mencakup informasi terperinci yang relevan untuk menganalisis tren musik, memahami karakteristik yang memengaruhi popularitas lagu, dan memberikan insight kepada artis serta produser musik.  
 
@@ -25,7 +25,7 @@ Pendekatan kami terdiri dari:
 
 ---
 
-# **1.3 Pendekatan dan Teknik Analisis**
+## **1.3 Pendekatan dan Teknik Analisis**
 
 Kami menggunakan berbagai teknik analisis data untuk memahami dan menjawab permasalahan:
 1. **Eksplorasi Data**: Melihat distribusi dan pola fitur musikal, seperti danceability dan popularitas.
@@ -39,7 +39,7 @@ Pendekatan ini bertujuan untuk memberikan solusi komprehensif yang relevan denga
 
 ---
 
-# **1.4 Manfaat Analisis untuk Konsumen dan Industri Musik**
+## **1.4 Manfaat Analisis untuk Konsumen dan Industri Musik**
 
 **Bagi Artis dan Produser**:
 - Insight tentang genre dan fitur musik yang cenderung populer, seperti danceability tinggi atau valence positif, membantu menciptakan lagu dengan peluang besar untuk viralitas.
