@@ -287,7 +287,7 @@ Informasi yang dihasilkan setelah melakukan analisa terhadap dataset memperoleh 
 <details>
 
 **1. Pernyataan Masalah**
-Industri musik terus berkembang pesat dengan hadirnya platform digital seperti Spotify dan TikTok yang mengubah cara audiens mengonsumsi dan menikmati musik. Tantangan utama yang dihadapi adalah:
+Industri musik terus berkembang pesat dengan hadirnya platform digital seperti Spotify yang mengubah cara audiens mengonsumsi dan menikmati musik. Tantangan utama yang dihadapi adalah:
 - **Mengidentifikasi faktor-faktor yang membuat sebuah lagu populer atau viral.**
 - **Menentukan karakteristik lagu yang sesuai untuk aktivitas tertentu seperti workout, relaksasi, atau bekerja.**
 - **Menganalisis tren musik berdasarkan waktu rilis.**
