@@ -243,6 +243,25 @@ pip install -r requirements.txt
 
 ---
 ## Tutorial
+
+Langkah-langkah untuk menjalankan proyek ini, mulai dari mempersiapkan dataset hingga mendapatkan hasil akhir.
+
+**1. Clone Repositori**
+Clone repositori dari GitHub:
+```
+git clone https://github.com/Fiiyaant/spotify-analysis.git
+cd spotify-analysis
+```
+**2. Instal Dependensi**
+Instal semua pustaka yang diperlukan:
+```
+pip install -r requirements.txt
+```
+**3. Buka Jupyter Notebook**
+setelah itu jalan kan Jupyter Notebook yang kamu gunakan dan pilih file yang ingin di jalankan.
+
+
+
 ---
 ## Hasil
 ---
