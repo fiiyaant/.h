@@ -205,7 +205,7 @@ Berikut adalah hasil analisis statistik deskriptif untuk variabel numerik dalam 
 1. **Populeritas Lagu (track_popularity)**: Nilai rata-rata adalah 42.48, menunjukkan sebagian besar lagu tidak sepenuhnya populer.
 2. **Danceability dan Energy**: Sebagian besar lagu memiliki nilai danceability dan energy tinggi, yang menunjukkan karakteristik musik yang sering digunakan untuk aktivitas tarian atau hiburan.
 3. **Tempo**: Tempo rata-rata adalah sekitar 120 BPM, konsisten dengan genre musik pop dan dance.
-
+</details>
   
 ---
 ## Analisis dan code
