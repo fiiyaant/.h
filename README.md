@@ -206,8 +206,6 @@ Berikut adalah hasil analisis statistik deskriptif untuk variabel numerik dalam 
 2. **Danceability dan Energy**: Sebagian besar lagu memiliki nilai danceability dan energy tinggi, yang menunjukkan karakteristik musik yang sering digunakan untuk aktivitas tarian atau hiburan.
 3. **Tempo**: Tempo rata-rata adalah sekitar 120 BPM, konsisten dengan genre musik pop dan dance.
 
-<details>
-
   
 ---
 ## Analisis dan code
