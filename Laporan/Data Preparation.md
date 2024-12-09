@@ -27,7 +27,7 @@ Data diimpor menggunakan pustaka `pandas` dengan format `.csv`. Berikut adalah l
 ```python
 import pandas as pd
 
-# Membaca dataset
+# Membaca dataset 
 df = pd.read_csv("spotify_dataset.csv")
 
 # Menampilkan beberapa baris awal
