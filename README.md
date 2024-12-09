@@ -1,6 +1,6 @@
 # Uncovering the Secrets Behind Music Popularity 🎶
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Spotify_logo_without_text.svg)
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/1024px-Spotify_logo_with_text.svg.png)
 
 
 ## Table Of Contents
