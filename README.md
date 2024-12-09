@@ -211,7 +211,7 @@ Berikut adalah hasil analisis statistik deskriptif untuk variabel numerik dalam 
 ---
 ## Analisis dan code
 - [File ipynb](https://colab.research.google.com/drive/1IT7PGdNXmqVbZYcVfQr2KW413MFy3L2V?usp=sharing) tersedia untuk dieksekusi langsung melalui Google Colab.
-- Notebook ini adalah bagian dari [repository GitHub Analisis Big Data](https://github.com/fiiyaant/Analisis-Big-data/tree/main/Notebook).
+- Notebook ini adalah bagian dari [repository GitHub Analisis Big Data](https://github.com/fiiyaant/Analisis-Big-data/blob/main/Notebook/Tubes_big_data_088_096.ipynb)).
 
 ---
 ## Storyboard
