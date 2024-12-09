@@ -10,7 +10,8 @@
 - [Storyboard](#storyboard)
 - [Dependencies](#dependencies)
 - [Tutorial](#Tutorial)
-- [Hasil](#hasiL)
+- [Summary](#Summary)
+- [Hasil](#hasil)
 - [Anggota Kelompok](#anggota-kelompok)
 - [Lisensi](#lisensi)
 
@@ -261,6 +262,89 @@ pip install -r requirements.txt
 setelah itu jalan kan Jupyter Notebook yang kamu gunakan dan pilih file yang ingin di jalankan.
 
 
+
+---
+
+## Summary
+
+<details>
+
+**1. Pernyataan Masalah**
+Industri musik terus berkembang pesat dengan hadirnya platform digital seperti Spotify dan TikTok yang mengubah cara audiens mengonsumsi dan menikmati musik. Tantangan utama yang dihadapi adalah:
+- **Mengidentifikasi faktor-faktor yang membuat sebuah lagu populer atau viral.**
+- **Menentukan karakteristik lagu yang sesuai untuk aktivitas tertentu seperti workout, relaksasi, atau bekerja.**
+- **Menganalisis tren musik berdasarkan waktu rilis.**
+
+Masalah ini sangat relevan bagi artis, produser, dan label musik untuk menciptakan lagu yang lebih relevan, menarik, dan memiliki daya tarik global.
+
+---
+**2. Pendekatan untuk Membahas Masalah**
+Dataset yang digunakan mencakup **32,833 lagu** dengan **23 fitur utama**, seperti:
+- **Fitur numerik:** Popularitas, danceability, energy, valence, tempo, dan durasi.
+- **Fitur kategori:** Genre, sub-genre, nama artis, dan tahun rilis.
+
+**Metodologi yang Diterapkan:**
+1. **Eksplorasi Data:**
+   - Mengidentifikasi pola dan distribusi fitur musikal utama seperti popularitas, tempo, dan energi.
+2. **Analisis Tren:**
+   - Memetakan evolusi genre, durasi lagu, dan danceability dari tahun ke tahun untuk memahami perubahan preferensi audiens.
+3. **Segmentasi Aktivitas:**
+   - Mengelompokkan lagu berdasarkan fitur tertentu untuk aktivitas seperti workout (tempo tinggi), relaksasi (energi rendah), dan bekerja (acousticness tinggi).
+4. **Visualisasi Data:**
+   - Menggunakan grafik untuk menggambarkan tren popularitas, perubahan genre, dan evolusi fitur musikal.
+
+---
+
+**3. Wawasan Utama**
+1. **Dominasi Genre Berdasarkan Waktu:**
+   - **Rock** mendominasi dari tahun 1960-an hingga 1990-an dengan lagu ikonik seperti *"Bohemian Rhapsody"* oleh Queen.
+   - **Pop dan EDM** menjadi genre yang dominan sejak 2010-an, didorong oleh platform digital. Contoh: *"Shape of You"* oleh Ed Sheeran.
+
+2. **Durasi Lagu Berdasarkan Era:**
+   - Lagu pada era 1960-1980-an berdurasi panjang (~4 menit), seperti *"Hotel California"* oleh Eagles.
+   - Lagu modern cenderung lebih pendek (~3 menit), mencerminkan preferensi audiens akan konten yang cepat dan ringkas.
+
+3. **Faktor Viralitas Lagu:**
+   - **Energy tinggi** (EDM dan Pop) memicu daya tarik instan di platform media sosial.
+   - Kombinasi **danceability tinggi** dan **valence positif** sangat cocok untuk menciptakan tantangan tarian viral di TikTok.
+
+4. **Tren Danceability dan Valence:**
+   - Danceability meningkat secara konsisten sejak 1980-an, sedangkan valence (keceriaan lagu) menurun sejak 1990-an, menunjukkan pergeseran menuju musik yang lebih emosional.
+
+---
+
+**4. Implikasi Analisis**
+**Bagi Artis dan Produser:**
+- **Fokus pada Genre Pop dan Latin:** Kedua genre ini memiliki daya tarik global yang fleksibel dan relevan untuk berbagai audiens.
+- **Optimalkan Fitur Musik:** Kombinasi energi tinggi, valence positif, dan ritme yang mudah ditarikan meningkatkan potensi viralitas lagu.
+- **Pertimbangkan Durasi Lagu:** Lagu yang lebih pendek lebih sesuai dengan kebiasaan audiens modern.
+
+**Bagi Industri Musik:**
+- **Tren Genre dan Fitur:** Wawasan ini membantu label musik merencanakan strategi pemasaran yang sesuai dengan target audiens.
+- **Rekomendasi Berbasis Data:** Membantu kurasi playlist untuk berbagai aktivitas seperti olahraga, relaksasi, atau bekerja.
+
+**Bagi Konsumen:**
+- **Playlist Relevan:** Memberikan pilihan lagu yang sesuai dengan kebutuhan emosional atau aktivitas spesifik mereka, seperti workout dengan tempo cepat atau relaksasi dengan energi rendah.
+
+---
+
+**5. Keterbatasan dan Saran Peningkatan**
+1. **Keterbatasan Dataset:**
+   - Tidak mencakup faktor eksternal seperti strategi promosi atau tren sosial yang dapat memengaruhi popularitas lagu.
+   - Tidak memiliki data lokasi geografis yang dapat memberikan insight preferensi audiens regional.
+
+
+**Saran Peningkatan:**
+- Menambahkan data perilaku audiens, seperti pola mendengarkan di platform digital.
+- Memasukkan elemen non-musikal seperti waktu perilisan dan promosi untuk analisis lebih holistik.
+- Menggunakan model prediktif untuk memproyeksikan tren musik di masa depan.
+
+---
+
+**Kesimpulan**
+Melalui analisis ini, kami menyediakan wawasan berbasis data untuk membantu semua pihak di industri musik—dari artis, produser, hingga label—memahami dan menciptakan musik yang relevan dengan audiens modern. Dengan fokus pada fitur musikal, tren waktu, dan preferensi audiens, wawasan ini mendukung inovasi dan kesuksesan dalam pasar musik global yang terus berubah.
+
+</details>
 
 ---
 ## Hasil
