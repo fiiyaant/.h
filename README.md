@@ -220,6 +220,28 @@ Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tuj
 
 ---
 ## Dependencies
+
+Proyek ini telah diuji menggunakan **Windows 10** dan **Python 3.10.4**.
+Berikut adalah daftar semua dependensi yang diperlukan untuk menjalankan proyek ini. Semua dependensi juga dapat ditemukan dalam file `requirements.txt`.
+
+- `pandas`, versi 1.4.3  
+- `openpyxl`, versi 3.0.10  
+- `numpy`, versi 1.23.0  
+- `matplotlib`, versi 3.5.2  
+- `seaborn`, versi 0.11.2  
+- `jupyterlab`, versi 3.4.4  
+- `ipywidgets`, versi 7.7.1  
+- `tqdm`, versi 4.64.0  
+
+---
+
+### Cara Install Dependensi
+Untuk menginstal semua dependensi, Anda dapat menjalankan perintah berikut:
+
+```bash
+pip install -r requirements.txt
+
+
 ---
 ## Tutorial
 ---
