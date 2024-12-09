@@ -54,4 +54,4 @@ Pendekatan ini bertujuan untuk memberikan solusi komprehensif yang relevan denga
 - Meningkatkan pengalaman mendengarkan yang lebih personal, membantu audiens menikmati musik yang sesuai dengan aktivitas dan preferensi mereka.
 
 
-analisis kami diharapkan memberikan manfaat nyata untuk semua pemangku kepentingan dalam industri musik, mulai dari menciptakan musik yang relevan hingga memperkuat pengalaman mendengarkan audiens.
+analisis kami lakukan diharapkan memberikan manfaat nyata untuk semua pemangku kepentingan dalam industri musik, mulai dari menciptakan musik yang relevan hingga memperkuat pengalaman mendengarkan audiens.
