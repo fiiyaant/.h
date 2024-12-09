@@ -33,4 +33,13 @@ df = pd.read_csv("spotify_dataset.csv")
 # Menampilkan beberapa baris awal
 df.head()
 
+Langkah 2: Pemeriksaan Nilai Hilang
+Kolom dengan nilai yang hilang diperiksa dan ditangani sesuai konteks:
+
+Kolom yang sangat penting, seperti popularity, diperiksa untuk nilai hilang dan diimputasi menggunakan rata-rata.
+Kolom yang memiliki persentase nilai hilang besar dihapus jika tidak signifikan.
+
+# Menangani nilai hilang
+df['popularity'].fillna(df['popularity'].mean(), inplace=True)  # Imputasi dengan rata-rata
+df.dropna(subset=['artists', 'name'], inplace=True)  # Hapus baris dengan artis/nama hilang
 
