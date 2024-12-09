@@ -233,13 +233,12 @@ Berikut adalah daftar semua dependensi yang diperlukan untuk menjalankan proyek 
 - `ipywidgets`, versi 7.7.1  
 - `tqdm`, versi 4.64.0  
 
----
-
-### Cara Install Dependensi
+Cara Install Dependensi
 Untuk menginstal semua dependensi, Anda dapat menjalankan perintah berikut:
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ---
