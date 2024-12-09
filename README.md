@@ -92,5 +92,15 @@ Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tuj
 - [Storyboard di Canva](https://www.canva.com/design/DAGYmD00Jps/ZUJwMcNluhOYKbGw4kTA7w/edit)
 
 ---
+## Dependencies
+---
+## Tutorial
+---
+## Hasil
+---
 
+## Anggota Kelompok
+---
 
+## Lisensi
+---
