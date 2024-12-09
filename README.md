@@ -16,9 +16,9 @@
 
 ---
 
-<details>
-## About
 
+## About
+<details>
 ### **1.1 Musik: Lebih dari Sekadar Hiburan**
 
 Musik lebih dari sekadar hiburan; ia memiliki dampak besar pada **suasana hati**, **produktivitas**, dan bahkan **membentuk tren sosial** yang memengaruhi kehidupan sehari-hari. 
