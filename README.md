@@ -313,6 +313,23 @@ Dataset yang digunakan mencakup **32,833 lagu** dengan **23 fitur utama**, seper
 
 ---
 
+## Hasil
+Berdasarkan analisis yang telah dilakukan pada data Spotify memperoleh hasil sebagai berikut:
+**1. Popularitas Berdasarkan Genre**
+Genre Pop dan Hip-hop lebih populer dibandingkan genre lain pada platform Spotify. Lagu-lagu dalam genre ini cenderung memiliki skor popularitas yang lebih tinggi, menunjukkan bahwa pendengar lebih sering memilih lagu-lagu dari genre tersebut. Selain itu, tren genre musik berubah seiring waktu, dengan beberapa genre menjadi lebih dominan.
+
+**2.Faktor Penentu Popularitas Lagu**
+Energi dan tempo lagu berpengaruh besar terhadap popularitasnya. Lagu dengan energi tinggi dan tempo cepat lebih cenderung mendapatkan popularitas yang lebih tinggi. Genre seperti Pop dan Hip-Hop, yang memiliki karakteristik ini, biasanya lebih populer di Spotify. Kombinasi energi, tempo, dan genre menjadi faktor utama dalam menentukan seberapa populer sebuah lagu.
+
+**3. Perubahan Tren Musik**
+Tren musik terus berkembang seiring waktu, dengan genre baru yang muncul dan mendominasi pasar. dengan adanya analisis ini menunjukkan pentingnya mengikuti tren terbaru untuk tetap relevan dengan musik.
+
+**4. Implikasi untuk Industri Musik**
+Informasi yang dihasilkan setelah melakukan analisa terhadap dataset memperoleh hasil yang di harap dapat digunakan oleh produser dan artis untuk menciptakan karya yang lebih sesuai dengan permintaan pasar.
+
+---
+
+
 **4. Implikasi Analisis**
 **Bagi Artis dan Produser:**
 - **Fokus pada Genre Pop dan Latin:** Kedua genre ini memiliki daya tarik global yang fleksibel dan relevan untuk berbagai audiens.
@@ -345,9 +362,6 @@ Dataset yang digunakan mencakup **32,833 lagu** dengan **23 fitur utama**, seper
 Melalui analisis ini, kami menyediakan wawasan berbasis data untuk membantu semua pihak di industri musik—dari artis, produser, hingga label—memahami dan menciptakan musik yang relevan dengan audiens modern. Dengan fokus pada fitur musikal, tren waktu, dan preferensi audiens, wawasan ini mendukung inovasi dan kesuksesan dalam pasar musik global yang terus berubah.
 
 </details>
-
----
-## Hasil
 ---
 
 ## Anggota Kelompok
