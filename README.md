@@ -81,7 +81,8 @@ Analisis kami dilakukan diharapkan memberikan manfaat nyata untuk semua pemangku
 ## Dataset
 
 ### Sumber Data
-Data diperoleh dari [Spotify Dataset](https://www.kaggle.com/datasets/). Dataset ini berisi informasi terkait karakteristik lagu-lagu populer di Spotify, seperti popularitas, durasi, energi, danceability, dan lain-lain.
+Data diperoleh dari [Spotify Dataset](https://www.dropbox.com/sh/qj0ueimxot3ltbf/AACzMOHv7sZCJsj3ErjtOG7ya?dl%3D1&sa=D&source=docs&ust=1733757131967275&usg=AOvVaw330-rZg7-2fAFW98M3BOK7)
+ Dataset ini berisi informasi terkait karakteristik lagu-lagu populer di Spotify, seperti popularitas, durasi, energi, danceability, dan lain-lain.
 
 ### Deskripsi Dataset Sumber
 Dataset ini berisi **<jumlah data>** entri dengan **<jumlah variabel>** variabel. Tujuan utama dataset ini adalah menganalisis faktor-faktor yang memengaruhi popularitas lagu di Spotify.  
