@@ -215,7 +215,7 @@ Berikut adalah hasil analisis statistik deskriptif untuk variabel numerik dalam 
 ---
 ## Storyboard
 Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tujuan utama proyek. File storyboard dapat diakses melalui link berikut:
-- [Storyboard (PDF)](storyboard/storyboard.pdf](https://github.com/fiiyaant/Analisis-Big-data/blob/main/Storyboard/Storyboard.pdf))
+- [Storyboard (PDF)](https://github.com/fiiyaant/Analisis-Big-data/blob/main/Storyboard/Storyboard.pdf)
 - [Storyboard di Canva](https://www.canva.com/design/DAGYmD00Jps/ZUJwMcNluhOYKbGw4kTA7w/edit)
 
 ---
