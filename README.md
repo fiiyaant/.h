@@ -1,5 +1,8 @@
 # Uncovering the Secrets Behind Music Popularity 🎶
 
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Spotify_logo_without_text.svg)
+
+
 ## Table Of Contents
 - [About](#About)
 - [Dataset](#dataset)
@@ -19,7 +22,13 @@ Proyek yang kami kerjakan terkait analisis dataset dari Spotify untuk memberikan
 2. **Menentukan karakteristik lagu untuk aktivitas tertentu.**
 3. **Menemukan tren musik berdasarkan waktu rilis.**
 4. **Memberikan insight kepada artis musik dalam meningkatkan kesuksesan lagu mereka.**
+5. 
 Proyek ini menggunakan data lagu Spotify yang mencakup berbagai fitur seperti popularitas, tempo, danceability, energy, dan fitur lainnya untuk analisis lebih lanjut.
 
 ---
+
+## Dataset
+Dataset yang digunakan dalam proyek ini adalah Spotify Songs Dataset, yang berisi informasi tentang lagu-lagu di platform Spotify. Dataset ini mencakup berbagai fitur lagu seperti popularitas, energi, tempo, danceability, dan banyak lagi.
+
+
 
