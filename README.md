@@ -207,6 +207,8 @@ Berikut adalah hasil analisis statistik deskriptif untuk variabel numerik dalam 
 3. **Tempo**: Tempo rata-rata adalah sekitar 120 BPM, konsisten dengan genre musik pop dan dance.
 
 <details>
+
+  
 ---
 ## Analisis dan code
 - [File ipynb](https://colab.research.google.com/drive/1IT7PGdNXmqVbZYcVfQr2KW413MFy3L2V?usp=sharing) tersedia untuk dieksekusi langsung melalui Google Colab.
