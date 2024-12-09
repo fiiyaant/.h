@@ -22,8 +22,7 @@ Proyek yang kami kerjakan terkait analisis dataset dari Spotify untuk memberikan
 2. **Menentukan karakteristik lagu untuk aktivitas tertentu.**
 3. **Menemukan tren musik berdasarkan waktu rilis.**
 4. **Memberikan insight kepada artis musik dalam meningkatkan kesuksesan lagu mereka.**
-
-   Dari tujuan tersebut diharap mampu membantu industri musik dan juga para audiens untuk lebih mengetahui terkait trend musik yang akan datang.
+Dari tujuan tersebut diharap mampu membantu industri musik dan juga para audiens untuk lebih mengetahui terkait trend musik yang akan datang.
 ---
 
 ## Dataset
