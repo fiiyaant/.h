@@ -82,7 +82,9 @@ Dataset yang digunakan dalam proyek ini adalah Spotify Songs Dataset, yang beris
 
 ---
 ## Analisis dan code
-- [File ipynb]([https://github.com/fiiyaant/Analisis-Big-data/tree/main/Notebook](https://colab.research.google.com/drive/1IT7PGdNXmqVbZYcVfQr2KW413MFy3L2V?usp=sharing))
+- [File ipynb](https://colab.research.google.com/drive/1IT7PGdNXmqVbZYcVfQr2KW413MFy3L2V?usp=sharing) tersedia untuk dieksekusi langsung melalui Google Colab.
+- Notebook ini adalah bagian dari [repository GitHub Analisis Big Data](https://github.com/fiiyaant/Analisis-Big-data/tree/main/Notebook).
+
 ---
 ## Storyboard
 Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tujuan utama proyek. File storyboard dapat diakses melalui link berikut:
