@@ -175,11 +175,9 @@ df['duration_ms'] = df['duration_ms'].astype(int)
 | playlist_name         | 0            |
 | track_album_release_date | 0         |
 
-<details>
 
 ### Analisis Statistik Deskriptif
 
-<details>
 
 #### Tujuan
 Analisis statistik deskriptif dilakukan untuk memberikan gambaran umum tentang data yang telah dibersihkan. Hal ini meliputi informasi seperti rata-rata, standar deviasi, nilai minimum, nilai maksimum, serta kuartil dari setiap variabel numerik dalam dataset.
