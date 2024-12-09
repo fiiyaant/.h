@@ -15,10 +15,11 @@
 - [Lisensi](#lisensi)
 
 ---
-## About
 
 <details>
-  <summary>### **1.1 Musik: Lebih dari Sekadar Hiburan**</summary>
+## About
+
+### **1.1 Musik: Lebih dari Sekadar Hiburan**
 
 Musik lebih dari sekadar hiburan; ia memiliki dampak besar pada **suasana hati**, **produktivitas**, dan bahkan **membentuk tren sosial** yang memengaruhi kehidupan sehari-hari. 
 
@@ -31,10 +32,9 @@ Oleh karena itu, penting untuk menganalisis:
 
 Pemahaman ini bisa membantu **artis**, **produser**, dan **label musik** menciptakan karya yang lebih relevan, menarik, dan berpotensi sukses. 
 Mari bersama-sama mengeksplorasi apa yang sebenarnya membuat musik bisa menghubungkan banyak orang!
-</details>
 
-<details>
-  <summary>### **1.2 Penjelasan Singkat Tentang Rencana dalam Mengatasi Pernyataan Masalah**</summary>
+
+### **1.2 Penjelasan Singkat Tentang Rencana dalam Mengatasi Pernyataan Masalah**
 
 Kami menggunakan dataset yang berisi **32,833 lagu** dengan **23 fitur utama** seperti popularitas, genre, danceability, tempo, energi, valence, durasi, dan tahun rilis. Data ini mencakup informasi terperinci yang relevan untuk menganalisis tren musik, memahami karakteristik yang memengaruhi popularitas lagu, dan memberikan insight kepada artis serta produser musik.  
 
@@ -43,10 +43,8 @@ Pendekatan kami terdiri dari:
 2. **Karakteristik Lagu untuk Aktivitas Tertentu**: Mengelompokkan lagu berdasarkan fitur seperti energi, tempo, dan valence untuk berbagai aktivitas seperti workout, relaksasi, atau bekerja.
 3. **Tren Berdasarkan Waktu**: Menelusuri evolusi fitur musik seperti durasi, danceability, dan valence untuk menemukan perubahan pola preferensi audiens.
 4. **Memberikan Insight Strategis**: Menyediakan panduan bagi artis dan industri musik untuk menciptakan karya yang relevan dengan audiens modern.
-</details>
 
-<details>
-  <summary>### **1.3 Pendekatan dan Teknik Analisis**</summary>
+### **1.3 Pendekatan dan Teknik Analisis**
 
 Kami menggunakan berbagai teknik analisis data untuk memahami dan menjawab permasalahan:
 1. **Eksplorasi Data**: Melihat distribusi dan pola fitur musikal, seperti danceability dan popularitas.
@@ -57,10 +55,8 @@ Kami menggunakan berbagai teknik analisis data untuk memahami dan menjawab perma
 6. **Rekomendasi Berbasis Data**: Menyusun daftar lagu dan insight untuk genre atau aktivitas tertentu berdasarkan hasil analisis.
 
 Pendekatan ini bertujuan untuk memberikan solusi komprehensif yang relevan dengan dinamika industri musik modern.
-</details>
 
-<details>
-  <summary>### **1.4 Manfaat Analisis untuk Konsumen dan Industri Musik**</summary>
+### **1.4 Manfaat Analisis untuk Konsumen dan Industri Musik**
 
 **Bagi Artis dan Produser**:
 - Insight tentang genre dan fitur musik yang cenderung populer, seperti danceability tinggi atau valence positif, membantu menciptakan lagu dengan peluang besar untuk viralitas.
