@@ -6,7 +6,7 @@
 ## Table Of Contents
 - [About](#About)
 - [Dataset](#dataset)
-- [Analisis dan Kode](#analisis-dan-kode)
+- [Analisis dan code](#analisis-dan-code)
 - [Storyboard](#storyboard)
 - [Dependencies](#dependencies)
 - [Tutorial](#Tutorial)
@@ -81,11 +81,14 @@ Analisis kami dilakukan diharapkan memberikan manfaat nyata untuk semua pemangku
 Dataset yang digunakan dalam proyek ini adalah Spotify Songs Dataset, yang berisi informasi tentang lagu-lagu di platform Spotify. Dataset ini mencakup berbagai fitur lagu seperti popularitas, energi, tempo, danceability, dan banyak lagi.
 
 ---
+## Analisis dan code
 
+---
 ## Storyboard
 Storyboard dari proyek ini memberikan gambaran visual dari alur analisis dan tujuan utama proyek. File storyboard dapat diakses melalui link berikut:
 - [Storyboard (PDF)](storyboard/storyboard.pdf)
 - [Storyboard di Canva](https://www.canva.com/design/DAGYmD00Jps/ZUJwMcNluhOYKbGw4kTA7w/edit)
 
 ---
+
 
